@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alertDialog</string>
+    <style name="custom" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#fa983a</item>
+    </style>
+</resources>
